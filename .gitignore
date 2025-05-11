@@ -2,6 +2,8 @@ resources/
 
 .idea/*
 
+.vscode/
+
 *.xml
 
 .DS_Store
